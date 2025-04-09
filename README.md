@@ -39,9 +39,44 @@ This is a React-based Quiz App that offers a seamless and interactive experience
 
 ---
 
-## 🚀 Installation
+##  🚀 Installation
 
-### Clone the repository:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Abhishek526-star/todo-app.git
+   ```
+2. **Navigate to the project directory:**
+   ```bash
+   cd todo-app
+   ```
+3. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+4. **Install Tailwind CSS:**
+   ```bash
+   npm install -D tailwindcss postcss autoprefixer
+   npx tailwindcss init
+   ```
+5. **Configure Tailwind CSS in `tailwind.config.js`:**
+   ```javascript
+   module.exports = {
+     content: ["./src/**/*.{js,jsx,ts,tsx}", "./public/index.html"],
+     theme: { extend: {} },
+     plugins: [],
+   };
+   ```
+6. **Add Tailwind to your CSS file (e.g., `src/index.css`):**
+   ```css
+   @tailwind base;
+   @tailwind components;
+   @tailwind utilities;
+   ```
+7. **Start the app:**
+   ```bash
+   npm start
+   ```
 
-```bash
-git clone https://github.com/Abhishek526-star/Quiz_App2.git
+   Open the app at `http://localhost:3000` and start organizing your tasks interactively.
+
+   Open the app at `http://localhost:3000` and start organizing your tasks interactively.
