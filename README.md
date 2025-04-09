@@ -18,8 +18,10 @@ This is a React-based Quiz App that offers a seamless and interactive experience
 
 
 
-## 📸 Screenshot  
-https://github.com/user-attachments/assets/9a4bf2ea-1fd0-4780-ad88-d39073621432
+## 📸 Screenshot  ![Screenshot 2025-04-09 161922](https://github.com/user-attachments/assets/c85497d5-0ace-4d52-ac3a-960707dfc634)
+
+
+
  
 
 
