@@ -16,17 +16,12 @@ This is a React-based Quiz App that offers a seamless and interactive experience
 ✅ Instant results and feedback after quiz completion  
 📂 Easily extendable for new categories and question sets  
 
----
 
-## 🔗 Live Link  
-[Quiz App Live](https://your-quiz-app-link.vercel.app/)  
-*(Replace with actual live deployment link)*
-
----
 
 ## 📸 Screenshot  
-![Quiz App Screenshot](./screenshot.png)  
-*(Update path or add image if hosted)*
+https://github.com/user-attachments/assets/9a4bf2ea-1fd0-4780-ad88-d39073621432
+ 
+
 
 ---
 
