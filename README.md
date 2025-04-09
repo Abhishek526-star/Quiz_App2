@@ -79,4 +79,4 @@ This is a React-based Quiz App that offers a seamless and interactive experience
 
    Open the app at `http://localhost:3000` and start organizing your tasks interactively.
 
-   Open the app at `http://localhost:3000` and start organizing your tasks interactively.
+
